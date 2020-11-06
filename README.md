@@ -1,4 +1,4 @@
-# pip-shortcuter release 1.1 Beta
+# pip-shortcuter release 1.0
 A shortcut to install pip packages in windows . 
 just enter pip package name true. 
 you can watch a lot of package in pypi.org and install them in pip shortcoter.
