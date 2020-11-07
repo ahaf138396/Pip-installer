@@ -1,0 +1,15 @@
+    
+    pip shortcuter release 1.0 Beta !
+    Hi !
+    welcome to pip installer !
+    You can install what you want from pip easily . just type correct name !
+    Insert your module name you want to install with pip3 .
+    You can use pypi.org to the best selection .
+    If you wan't to exit just type 'exit'
+    
+    You can enter :
+    1. "The desired package in pip"
+    2. about
+    3. exit
+
+    
