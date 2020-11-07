@@ -1,5 +1,0 @@
- 
-    Choose your OS !
-    1. Linux 
-    2. Windows
-    
