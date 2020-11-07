@@ -6,12 +6,12 @@ import platform
 def main():
     print(" You are running this software in "+platform.system()+platform.release()+" version "+platform.version())
     date = dt.now()
-    o = r"C:\Python Projects\pip shortcut\1.txt"
+    o = "1.txt"
     op = open(o, "r+")
     print(op.read())
     a = input(" ...   ")
     if a != "exit" and a !="about" :
-      o = r"C:\Python Projects\pip shortcut\2.txt"
+      o = "2.txt"
       op = open(o, "r+")
       print(op.read())
       m = input(" ...   ")
@@ -40,7 +40,7 @@ def main():
       elif m == "3":
           main()
     elif a == "about":
-        o = r"C:\Python Projects\pip shortcut\about.txt"
+        o = "about.txt"
         op = open(o, "r+")
         print(op.read())
         time.sleep(2)
